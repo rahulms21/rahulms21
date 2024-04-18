@@ -23,9 +23,9 @@
 
 <br><br>
 - :smile:  Hello! My name is <em>Rahul MS</em> and I'm an aspiring growing programmer 💮 in software engineering.
-- :wink:   I have a keen interest in Networking , Web Developemnt.
+- :wink:   I have a keen interest in Networking , Web Development.
 - :technologist: I love using Software as a solution for every Problem.
-- :computer: I am a competitive programmer at LeetCode ,coding Ninjas.
+- :computer: I am a competitive programmer at LeetCode.
 - :student: I’m currently learning Information technology at [SKCET](https://www.skcet.ac.in/) 
 
 - :nerd_face: Always learning new things.
